@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Component Should render Card 1`] = `
+<textarea
+  className="chakra-textarea css-5d6l6w"
+  onBlur={[Function]}
+  onFocus={[Function]}
+/>
+`;
